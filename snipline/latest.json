@@ -1,8 +1,8 @@
 {
     "Schema":  1,
     "App":  "SN",
-    "Version":  "1.5.0",
-    "DownloadUrl":  "https://github.com/curtner04/snipline-downloads/releases/download/snipline-1.5.0-f7b0cac29b25f5a6/SN-Setup.exe",
-    "SHA256":  "f7b0cac29b25f5a605991c1164db53eb67aa043ab0d96a662f60c28e0cb9d99a",
-    "Bytes":  2396048
+    "Version":  "1.6.1",
+    "DownloadUrl":  "https://github.com/curtner04/snipline-downloads/releases/download/snipline-1.6.1-0e2fd6d037ebe550/SN-Setup.exe",
+    "SHA256":  "0e2fd6d037ebe5507fe2e02a62b4e25b484b33d061fd790cfaf6a4d1bcf0be07",
+    "Bytes":  2420259
 }
